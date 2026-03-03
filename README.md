@@ -40,6 +40,7 @@ A feature-rich tweak for Instagram on iOS!\
   - No suggested chats
   - Hide trending searches
   - Hide explore posts grid
+  - Hide metrics
 
 ### Feed
 - Hide stories tray
